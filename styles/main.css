@@ -1643,3 +1643,12 @@ td {
 .katex .mtable .col-align-r > .vlist {
   text-align: right;
 }
+
+      .main {
+        max-width: 960px;
+      }
+    
+      .post-detail .post .post-content p {
+        font-size: 14px;
+      }
+    
